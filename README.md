@@ -1,21 +1,19 @@
-# BasqueCyberSecurity.
+# BasqueCyberSecurity:
 https://www.basquecybersecurity.eus. 
-
 * https://www.basquecybersecurity.eus/es/publicaciones/guias-estudios-informes/libro-blanco-ciberseguridad-euskadi.html. 
 * https://www.basquecybersecurity.eus/archivos/201902/bcsc_libro_blanco_v7.pdf?2.
 
-
+## Menbresías:
 * FIRST https://www.first.org/members/teams/bcsc. 
 * TF-CSIRT https://www.trusted-introducer.org/directory/teams/bcsc.html. 
 * CSIRT https://www.csirt.es/index.php/es/miembros/bcsc. 
 * GLOBALEPIC https://globalepic.org/HomePage. 
 * The European Cyber Security Organisation (ECSO) https://www.ecs-org.eu/. 
-
 #### INCIBE https://www.incibe.es/en. 
 #### INCIBE-CERT https://www.incibe-cert.es/en. 
-### SPRI www.spri.eus/euskadinnova. 
 
-https://www.incibe.es/sites/default/files/contenidos/guias/doc/taxonomia_ciberseguridad.pdf. 
+### SPRI www.spri.eus/euskadinnova. 
+* https://www.incibe.es/sites/default/files/contenidos/guias/doc/taxonomia_ciberseguridad.pdf. 
 
 ## Basque Industry 4.0. 
 * https://www.spri.eus/es/basque-industry-comunicacion/indussec-2018-ciberseguridad-la-industria/. 
@@ -34,7 +32,7 @@ https://www.incibe.es/sites/default/files/contenidos/guias/doc/taxonomia_ciberse
 
 
 
-* Basque industry 4.0 https://www.spri.eus/es/basque-industry/. 
+### Basque industry 4.0 https://www.spri.eus/es/basque-industry/. 
 * UP!Euskadi https://upeuskadi.spri.eus/es/. 
 * Basque Trade https://basquetrade.spri.eus/es/. 
 * Investment https://www.spri.eus/invest-in-basque-country/. 
