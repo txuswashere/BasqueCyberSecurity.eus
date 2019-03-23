@@ -1,2 +1,2 @@
-# Basque-Cyber-Security
+# BasqueCyberSecurity
 https://www.basquecybersecurity.eus 
