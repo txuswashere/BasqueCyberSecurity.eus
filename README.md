@@ -1,7 +1,9 @@
-# BasqueCyberSecurity:
+# BasqueCyberSecurity
 https://www.basquecybersecurity.eus. 
 * https://www.basquecybersecurity.eus/es/publicaciones/guias-estudios-informes/libro-blanco-ciberseguridad-euskadi.html. 
 * https://www.basquecybersecurity.eus/archivos/201902/bcsc_libro_blanco_v7.pdf?2.
+* https://www.basquecybersecurity.eus/es/estudio-sobre-estado-ciberseguridad-industrial-19.html
+* https://www.basquecybersecurity.eus/archivos/201810/bcsc_ciberseguridad_industrial_en_euskadi_2018_v1.pdf?1
 
 ## Menbresías:
 * FIRST https://www.first.org/members/teams/bcsc. 
@@ -9,16 +11,17 @@ https://www.basquecybersecurity.eus.
 * CSIRT https://www.csirt.es/index.php/es/miembros/bcsc. 
 * GLOBALEPIC https://globalepic.org/HomePage. 
 * The European Cyber Security Organisation (ECSO) https://www.ecs-org.eu/. 
+
 #### INCIBE https://www.incibe.es/en. 
 #### INCIBE-CERT https://www.incibe-cert.es/en. 
 
-### SPRI www.spri.eus/euskadinnova. 
+## SPRI www.spri.eus/euskadinnova. 
 * https://www.incibe.es/sites/default/files/contenidos/guias/doc/taxonomia_ciberseguridad.pdf. 
 
 ## Basque Industry 4.0. 
 * https://www.spri.eus/es/basque-industry-comunicacion/indussec-2018-ciberseguridad-la-industria/. 
 
-### Protección de las infraestructuras críticas. 
+#### Protección de las infraestructuras críticas. 
 * https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630. 
 * https://estadisticasdecriminalidad.ses.mir.es/. 
 
@@ -29,8 +32,6 @@ https://www.basquecybersecurity.eus.
 ## BIND 4.0 https://bind40.com/. 
 * https://www.spri.eus/es/upeuskadi-comunicacion/mas-de-medio-millar-de-startup-de-todo-el-mundo-optan-a-poder-participar-en-la-3a-edicion-del-programa-vasco-de-aceleracion-bind-4-0/. 
 * https://gem-paisvasco.es/wp-content/uploads/2018/06/GEM_CAPV_2017-18.pdf. 
-
-
 
 ### Basque industry 4.0 https://www.spri.eus/es/basque-industry/. 
 * UP!Euskadi https://upeuskadi.spri.eus/es/. 
