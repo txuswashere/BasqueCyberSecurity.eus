@@ -43,18 +43,27 @@
 * Capital Riesgo https://www.spri.eus/es/capital-riesgo/ 
 
 #### CLUSTER
-* http://www.aclima.eus/en/
-* http://www.clusterenergia.com/ 
-* www.feaf.es/ 
-* https://www.mafex.es/ 
-* http://www.mlcluster.com/ 
-* http://www.clusterpapel.com/ 
-* https://www.siderex.es/ 
-* https://www.forjas.org/ 
-* http://www.uniportbilbao.es/es 
-* http://www.eraikune.com/ 
-* http://www.gaia.es/ 
-* https://www.eikencluster.com/ 
+* Energy http://www.clusterenergia.com/ 
+* Foundry (Metal castings) www.feaf.es/ 
+* ICT Railway Equipment https://www.mafex.es/ 
+* Mobility and Logistics http://www.mlcluster.com/ 
+* Paper http://www.clusterpapel.com/ 
+* Steelworks & Equipment https://www.siderex.es/ 
+* Forging Industry https://www.forjas.org/ 
+* Sailing http://www.uniportbilbao.es/es 
+* Construction http://www.eraikune.com/ 
+* ICT http://www.gaia.es/ 
+* Audiovisual & Digital Contents https://www.eikencluster.com/ 
+* Environment http://www.aclima.eus/en/
+* Aerospace http://www.hegan.com/
+* Food http://www.clusteralimentacion.com/es
+* Automotive https://www.acicae.es/
+* Bio-Health http://www.basquehealthcluster.org/
+* Habitat, Wood, Furniture http://www.habic.eus/
+* Maritime Industries http://www.foromaritimovasco.com/
+* Advanced Manufacturing https://www.afm.es/
+
+
 
 #### Referencias:
 * https://www.spri.eus/es/basque-industry-comunicacion/indussec-2018-ciberseguridad-la-industria/ 
