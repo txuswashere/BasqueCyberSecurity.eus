@@ -42,6 +42,12 @@
 * Spri Lur http://www.sprilur.eus/es/ 
 * Capital Riesgo https://www.spri.eus/es/capital-riesgo/ 
 
+## Centros tecnológicos
+* https://www.tecnalia.com/
+* http://www.vicomtech.org/
+* Ik4-Ikerlan http://www.ik4.es/ https://www.ikerlan.es/
+* Basque Center for Applied Mathematics http://www.bcamath.org/
+
 #### CLUSTER
 * Energy http://www.clusterenergia.com/ 
 * Foundry (Metal castings) www.feaf.es/ 
