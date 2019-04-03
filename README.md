@@ -19,9 +19,11 @@
 
 ## SPRI www.spri.eus/euskadinnova 
 * https://www.incibe.es/sites/default/files/contenidos/guias/doc/taxonomia_ciberseguridad.pdf 
+* https://www.innobasque.eus/
 
 ## Basque Industry 4.0. 
 * https://www.spri.eus/es/basque-industry-comunicacion/indussec-2018-ciberseguridad-la-industria/ 
+* https://www.spri.eus/es/basque-industry-comunicacion/ciberseguridad/las-tecnicas-de-ciberseguridad-que-deben-implantar-las-empresas-industriales/
 
 #### Protección de las infraestructuras críticas. 
 * https://www.boe.es/buscar/act.php?id=BOE-A-2011-7630 
@@ -35,13 +37,14 @@
 * https://www.spri.eus/es/upeuskadi-comunicacion/mas-de-medio-millar-de-startup-de-todo-el-mundo-optan-a-poder-participar-en-la-3a-edicion-del-programa-vasco-de-aceleracion-bind-4-0/ 
 * https://gem-paisvasco.es/wp-content/uploads/2018/06/GEM_CAPV_2017-18.pdf 
 
-### Basque industry 4.0 https://www.spri.eus/es/basque-industry/ 
-* UP!Euskadi https://upeuskadi.spri.eus/es/ 
-* Basque Trade https://basquetrade.spri.eus/es/ 
+### Basque industry 4.0 https://basqueindustry.spri.eus/
+* UP!Euskadi https://upeuskadi.spri.eus/ 
+* Basque Trade https://basquetrade.spri.eus/
 * Investment https://www.spri.eus/invest-in-basque-country/ 
 * https://www.spri.eus/es/basque-industry/basque-digital-innovation-hub/ 
-* Spri Lur http://www.sprilur.eus/es/ 
+* Spri Lur http://www.sprilur.eus/
 * Capital Riesgo https://www.spri.eus/es/capital-riesgo/ 
+
 
 ## Centros tecnológicos
 * https://www.tecnalia.com/
@@ -70,6 +73,14 @@
 * Maritime Industries http://www.foromaritimovasco.com/
 * Advanced Manufacturing https://www.afm.es/
 
+#### Cámaras de Comercio, Industria y Navegación 
+* https://www.camarabilbao.com/
+* http://www.camaragipuzkoa.com/
+* http://www.camaradealava.com/
+
+### http://parke.eus/es/
+* http://www.bicaraba.eus/bicaraba/
+* https://www.bicgipuzkoa.eus/
 
 
 #### Referencias:
