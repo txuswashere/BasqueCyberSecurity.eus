@@ -78,7 +78,7 @@
 * http://www.camaragipuzkoa.com/
 * http://www.camaradealava.com/
 
-### http://parke.eus/es/
+### Red de Parques Tecnológicos http://parke.eus/es/
 * http://www.bicaraba.eus/bicaraba/
 * https://www.bicgipuzkoa.eus/
 
